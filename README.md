@@ -3,7 +3,7 @@ A python script that creates a DFA by reading a text file (dfa.txt) and then acc
 
 Dfa text file structure explanation:
 
-![Dfa structure](../ThomasPapapaschos/SimplePyDFA/main/doc/dfa.png)
+![Dfa structure](https://raw.githubusercontent.com/ThomasPapapaschos/SimplePyDFA/main/doc/dfa.png)
 
 
 
